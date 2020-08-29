@@ -65,4 +65,28 @@ console.log(arr12.join(" + "));
 console.log(arr13.join(" - "));
 
 // 8. forEach
+const arr14 = [1, 2, 4, 5, 6, 7, 8, 9];
+
+const cetak = function (elemen) {
+  console.log(elemen);
+};
+arr14.forEach(cetak);
+
+const arr15 = ["Ironman", "Superman", "Spiderman", "Wonderwomen", "Panther"];
+arr15.forEach(function (nama, index) {
+  console.log("Pahlawan ke-" + index + " adalah : " + nama);
+});
+
 // 9. Map
+const arr16 = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+const arr17 = arr16.map(function (angka) {
+  return angka * 2;
+});
+console.log(arr17.join(" - "));
+
+// 10. Sort
+const arr18 = [1, 5, 7, 3, 7, 8, 4, 3, 7, 4, 2, 78, 4];
+arr18.sort(function (a, b) {
+  return a - b;
+});
+console.log(arr18.join(" + "));
