@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Javascript Array</title>
+    <script src="exercise-1.js"></script>
+  </head>
+  <body>
+    <h1>5 Pekerjaan IT</h1>
+    <ul id="bidang"></ul>
+
+    <script>
+      function pekerjaanIT() {
+        const bidang = [
+          "Front-end Developer",
+          "Back-end Developer",
+          "Intenet Of Things",
+          "artificial intelligence",
+          "Machine Learning",
+        ];
+        (function (it) {
+          return it;
+        });
+
+        document.getElementById("bidang").innerHTML =
+          "<li>" + bidang.join("</li><li>") + "</li>";
+      }
+
+      pekerjaanIT();
+    </script>
+  </body>
+</html>
