@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nomor 2</title>
+    <script src="exercise-2.js"></script>
+  </head>
+  <body>
+
+    <h1>Tim Pertama</h1>
+    <ul id="timPertama"></ul>
+
+    <h1>Tim Kedua</h1>
+    <ul id="timKedua"></ul>
+
+
+  
+  <script>
+      function tim() {
+        const timPertama = [
+          "orang 1",
+          "orang 2",
+          "orang 3",
+          "orang 4",
+          "orang 5",
+        ];
+
+        const timKedua = [
+          "orang 1",
+          "orang 2",
+          "orang 3",
+        ];
+        (function (team) {
+          return team;
+        });
+
+        document.getElementById("timPertama").innerHTML =
+          "<li>" + timPertama.join("</li><li>") + "</li>";
+
+          document.getElementById("timKedua").innerHTML =
+          "<li>" + timKedua.join("</li><li>") + "</li>";
+      }
+
+      tim();
+      console.log(tim);
+    </script>
+    </script>
+  </body>
+</html>
