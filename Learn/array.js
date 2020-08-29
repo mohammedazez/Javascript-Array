@@ -46,3 +46,23 @@ console.log(arr8.join(" - "));
 const arr9 = ["Ironman", "Superman", "Spiderman"];
 arr9.shift();
 console.log(arr9.join(" + "));
+
+// 6. splice - menambahkan dan menghapus elemen array di tengah array
+// splice(indexAwal, mauDihapusBerapa, elemenBaru1, elemenBaru2, . . . )
+const arr10 = ["Ironman", "Superman", "Spiderman"];
+arr10.splice(2, 0, "Batman", "Hulk");
+console.log(arr10.join(" + "));
+
+const arr11 = ["Ironman", "Superman", "Spiderman"];
+arr11.splice(1, 2, "Wonderwomen", "Panther");
+console.log(arr11.join(" + "));
+
+// 7. slice -
+// slice(awal, akhir)
+var arr12 = ["Ironman", "Superman", "Spiderman", "Wonderwomen", "Panther"];
+var arr13 = arr12.slice(1, 3);
+console.log(arr12.join(" + "));
+console.log(arr13.join(" - "));
+
+// 8. forEach
+// 9. Map
