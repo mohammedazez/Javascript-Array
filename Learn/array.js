@@ -90,3 +90,25 @@ arr18.sort(function (a, b) {
   return a - b;
 });
 console.log(arr18.join(" + "));
+
+// 11. filter
+const arr19 = [1, 5, 7, 3, 7, 8, 4, 3, 7, 4, 2, 78, 4];
+const arr20 = arr19.filter(function (x) {
+  return x == 5;
+});
+const arr21 = arr19.filter(function (x) {
+  return x > 5;
+});
+console.log(arr20);
+console.log(arr21.join(" - "));
+
+// 12. find
+const arr22 = [1, 5, 7, 3, 7, 8, 4, 3, 7, 4, 2, 78, 4];
+const arr23 = arr22.find(function (d) {
+  return d > 5;
+});
+console.log(arr23);
+
+// Referensi Lengkap
+// https://www.w3schools.com/jsref/jsref_obj_array.asp
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
