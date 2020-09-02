@@ -2,18 +2,20 @@
 
 > Mengenal Javascript Array
 
-Javascript Array akan memilih kondisi true atau yang benar yang akan dijalankan.
+Javascript Array merupakan tulis arti yang menjelaskan javascript ini dengan jelas dan mudah analogi yang mudah dipahami.
 
 ## Dokumentasi Javascript Array
 
-- [JS Loop for](https://www.w3schools.com/js/js_loop_for.asp) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [JS Loop While](https://www.w3schools.com/js/js_loop_while.asp) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-- [JS Comparison](https://www.w3schools.com/js/js_comparisons.asp) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-- [Statemen Looping](https://www.w3schools.com/JSREF/jsref_for.asp) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
-- [loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
+- [JavaScript Arrays](https://www.w3schools.com/js/js_arrays.asp) - Tulis deskripsi yang mengambarkan sintak ini dengan jelas dan mudah dipahami.
+- [JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp) - Tulis deskripsi yang mengambarkan sintak ini dengan jelas dan mudah dipahami.
+- [JavaScript Array Reference](https://www.w3schools.com/jsref/jsref_obj_array.asp) - Tulis deskripsi yang mengambarkan sintak ini dengan jelas dan mudah dipahami.
+- [JavaScript Array Iteration Methods](https://www.w3schools.com/js/js_array_iteration.asp) - Tulis deskripsi yang mengambarkan sintak ini dengan jelas dan mudah dipahami.
+- [JavaScript Sorting Arrays](https://www.w3schools.com/js/js_array_sort.asp) - Tulis deskripsi yang mengambarkan sintak ini dengan jelas dan mudah dipahami.
+- [Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) - Tulis deskripsi yang mengambarkan sintak ini dengan jelas dan mudah dipahami.
 
 
 ## Artikel lain
 
-- ["Memahami 6 Bentuk Percabangan pada Javascript"](https://www.petanikode.com/javascript-percabangan/#readme) - _Petani kode_
-- ["Javascript Conditional"](https://studentutac-my.sharepoint.com/:p:/r/personal/041214065_ecampus_ut_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7B8B8FF38C-3C3D-4CBF-BA9F-6EEB288F88B6%7D&file=JAVASCRIPT%20-%20CONDITIONAL.pptx&action=edit&mobileredirect=true) - _Materi Belajar_
+- ["Memahami Struktur Data Array pada Javascript"](https://www.petanikode.com/javascript-array/) - _Petani kode_
+- ["Javascript - Array"](https://studentutac-my.sharepoint.com/:p:/r/personal/041214065_ecampus_ut_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7B3CF9FCF4-C4A4-42A2-BF12-B9DBFE855675%7D&file=Javascript%20-%20Array.pptx&action=edit&mobileredirect=true) - _Materi Belajar_
+- ["Javascript - Multidimensional Array"](https://studentutac-my.sharepoint.com/:p:/r/personal/041214065_ecampus_ut_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7B4E50674B-B04A-403D-8378-945AE68E982D%7D&file=3.%20Javascript%20-%20Multidimensional%20Array.pptx&action=edit&mobileredirect=true) - _Materi Belajar_
